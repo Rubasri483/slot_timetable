@@ -24,18 +24,18 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-'''
-<!DOCTYPE html>
-<html>
-    <head>
-    <title>TIME TABLE</title>
-    </head>
-    <body>
-        <center>
+              '''
+                 <!DOCTYPE html>
+                 <html>
+           <head>
+           <title>TIME TABLE</title>
+           </head>
+            <body>
+            <center>
             <img src="/static/logo.png" height="100" width="540">
-        </center>
-        <br>
-        <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
+            </center>
+            <br>
+            <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
             <caption><b>SLOT TIME TABLE - Rubasri.R (212224240139)</b></caption>
             <tr align="center">
                 <th bgcolor="yellow">Day/Time</th>
@@ -134,9 +134,9 @@ Execute the program using runserver command.
                 <td>COMMUNICATIVE ENGLISH</td>
             </tr>
         </table>
-    </body>
-</html>
-'''
+        </body>
+     </html>
+     '''
 
 ## OUTPUT
 ![alt text](<Screenshot 2025-04-17 232816.png>)
